@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📫 Email:  **tirthorajmondla@gmail.com**
+- 📫 Email:  **tirthorajmondal@gmail.com**
 
 - ⚡ Fun fact: I use tabs over spaces  
   
