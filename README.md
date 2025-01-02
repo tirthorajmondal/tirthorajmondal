@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tirthorajmondal" target="blank"><img src="https://img.shields.io/twitter/follow/tirthorajmondal?logo=twitter&style=for-the-badge" alt="tirthorajmondal" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **MERN**
 
 - 📫 Email:  **tirthorajmondal@gmail.com**
 
